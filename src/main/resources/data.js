@@ -1,5 +1,5 @@
 /**
- * my new comment (local)
+ * 
  */
 
 var func = function(a, b, c){
