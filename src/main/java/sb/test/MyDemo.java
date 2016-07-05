@@ -14,7 +14,7 @@ public class MyDemo {
 		} catch (Exception e) {
 		}
 		if (s == null) {
-			System.out.println("aaa");
+			System.out.println("X");
 		}
 	}
 }
