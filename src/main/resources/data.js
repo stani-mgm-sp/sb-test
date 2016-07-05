@@ -1,5 +1,5 @@
 /**
- * todo
+ * 
  */
 
 var func = function(a, b, c){
