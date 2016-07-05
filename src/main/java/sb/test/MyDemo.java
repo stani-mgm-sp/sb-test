@@ -13,5 +13,8 @@ public class MyDemo {
 			
 		} catch (Exception e) {
 		}
+		if (s == null) {
+			System.out.println("");
+		}
 	}
 }
