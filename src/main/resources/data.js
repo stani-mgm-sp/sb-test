@@ -1,5 +1,5 @@
 /**
- * remote change
+ * 
  */
 
 var func = function(a, b, c){
