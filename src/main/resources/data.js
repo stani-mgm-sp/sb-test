@@ -1,9 +1,9 @@
 /**
- * 
+ * aaa
  */
 
 var func = function(a, b, c){
-	var column = 2;
+	var column = 4;
 };
 
 var module = (function(){
