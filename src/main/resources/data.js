@@ -3,7 +3,7 @@
  */
 
 var func = function(a, b, c){
-	var column = -1;
+	var column = -20;
 };
 
 var module = (function(){
