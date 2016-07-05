@@ -1,5 +1,5 @@
 /**
- * new comment
+ * new comment #2
  */
 
 var func = function(a, b, c){
