@@ -7,5 +7,5 @@ var func = function(a, b, c){
 };
 
 var module = (function(){
-	
+	var row = null;
 })(jQuery);
