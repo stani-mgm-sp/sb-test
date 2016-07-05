@@ -1,9 +1,9 @@
 /**
- * my new comment (local) #2
+ * 
  */
 
 var func = function(a, b, c){
-	var column = 16.5; // correct value
+	var column = 2;
 };
 
 var module = (function(){
